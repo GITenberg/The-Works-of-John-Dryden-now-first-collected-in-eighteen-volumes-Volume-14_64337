@@ -1,5 +1,8 @@
 _repo: The-Works-of-John-Dryden-now-first-collected-in-eighteen-volumes-Volume-14_64337
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dryden, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/807
     wikipedia: http://en.wikipedia.org/wiki/John_Dryden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64337#The-Works-of-John-Dryden-now-first-collected-in-eighteen-volumes-Volume-14
 gutenberg_issued: '2021-01-19'
 gutenberg_type: Text
 identifiers:
