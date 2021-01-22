@@ -1,0 +1,23 @@
+_repo: The-Works-of-John-Dryden-now-first-collected-in-eighteen-volumes-Volume-14_64337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+description: ''
+gutenberg_issued: '2021-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Works of John Dryden, now first collected in eighteen volumes. Volume 14
+url: http://www.gutenberg.org/ebooks/64337
